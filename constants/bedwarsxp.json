@@ -1,0 +1,13 @@
+{
+  "easy_level_count": 4,
+  "easy_level_xp": [
+    500,
+    1000,
+    2000,
+    3500
+  ],
+  "easy_level_xp_total": 7000,
+  "xp_per_level": 5000,
+  "levels_per_prestige": 100,
+  "xp_per_prestige": 487000
+}
