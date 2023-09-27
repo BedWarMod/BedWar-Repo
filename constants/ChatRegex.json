@@ -1,0 +1,8 @@
+{
+  "gameEndPattern": "(?<team>\\w+)\\s+-(\\s+(?:\\[[^]]*]\\s+)?(\\w+)).",
+  "bedBreakPattern": "^BED DESTRUCTION > (?<team>\\w+) Bed .* (?:by|for|to|seeing) (?<player>\\w+)[!.']",
+  "finalKillPattern": "(?<killed>\\w+) .* (?<killer>\\w+)[.!'].+FINAL KILL!",
+  "killPattern": "§\\w(?<killed>\\w+) §7.*(?:by|for|to) §\\w(?<killer>\\w+)§7[.!]",
+  "voidPattern": "§\\w(?<killed>\\w+) §7fell into the void.",
+  "teamEliminatedPattern": "TEAM ELIMINATED > (?<team>\\w+) Team has been eliminated!"
+}
