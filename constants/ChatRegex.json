@@ -1,4 +1,5 @@
 {
+  "gameStartPattern": "§e§l(?:Collect Lucky Blocks from resource generators|Protect your bed and destroy the enemy beds\\.)",
   "gameEndPattern": "(?<team>\\w+)\\s+-(\\s+(?:\\[[^]]*]\\s+)?(\\w+)).",
   "bedBreakPattern": "^BED DESTRUCTION > (?<team>\\w+) Bed .* (?:by|for|to|seeing) (?<player>\\w+)[!.']",
   "finalKillPattern": "^(?<killed>\\w+) .* (?<killer>\\w+)[.!'].+FINAL KILL!",
