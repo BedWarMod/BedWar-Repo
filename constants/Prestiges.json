@@ -306,7 +306,7 @@
       "colours": {
         "leftBracket": "§8",
         "rightBracket": "§8",
-        "starColour": "§8",
+        "starColour": "",
         "numberColours": [
           "§7",
           "§f",
